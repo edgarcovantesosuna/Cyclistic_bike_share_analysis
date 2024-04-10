@@ -8,10 +8,9 @@ This repository contains two solutions for the Google Data Analytics Capstone: C
 
 The task titled "Case Study 1: How does a bike-share navigate speedy success?" consists of analyzing a case similar to what you might be asked for in a job interview.
 
-The current repository contains several files and sub-folders used in the present analysis. Among the files included, there is a PDF containing the information related to the case study, the history and background. A solution using the 
-Python programming language (Jupiter Notebook, IPYND), the R programming language (R markdown file, RMD) that solves the same case study. A folder called `dataset` can be found containing the CSV files to be analyzed (due to memory 
-restrictions the files are not provided, please follow the steps defined inside each solution so you can run the code without a problem) , another sub-folder called `original_data` that contains the downloaded ZIP files (just in case we 
-needed to restore/use the original data sets' information, again due to space restrictions this folder had to be omitted). Finally, a folder called `reports` where all the final reports are stored.
+The current repository contains several files and one folder used in the present analysis. Among the files included, there is a PDF containing the information related to the case study, the history and background. 
+
+Two solutions presented in a Python and R Jupiter Notebooks (feel free to run them using Kaggle). Finally, a folder called `reports` where all the final reports are stored.
 
 ## Scenario
 
